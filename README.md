@@ -20,7 +20,7 @@ My background spans technology commercialization, AI product strategy, solutions
 ### AutoAssess AI
 AI-assisted automobile claims assessment prototype combining damage analysis, confidence scoring, cost estimation, and human-in-the-loop review.
 
-[View repository](https://github.com/raghid-shreih/insurance-workflow-automator)
+[View repository](https://github.com/raghid-shreih/autoassess-ai)
 
 More public projects and technical case studies are being added as I continue organizing my portfolio.
 
