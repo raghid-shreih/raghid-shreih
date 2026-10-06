@@ -17,12 +17,14 @@ My background spans technology commercialization, AI product strategy, solutions
 
 ## Selected Work
 
-### AutoAssess AI
-AI-assisted automobile claims assessment prototype combining damage analysis, confidence scoring, cost estimation, and human-in-the-loop review.
+### [AutoAssess AI](https://github.com/raghid-shreih/autoassess-ai)
+A full-stack vehicle claims review prototype built with React, TypeScript, and Express. It handles image uploads, editable cost estimates, and human review decisions. Assessments are simulated; the app does not run a vision model or claim measured accuracy.
 
-[View repository](https://github.com/raghid-shreih/autoassess-ai)
+### [Retail Feedback Intelligence](https://github.com/raghid-shreih/retail-feedback-intelligence)
+A Python project for analyzing apparel reviews and evaluating an LLM's recommendation predictions. It includes validated data loading, reproducible sampling, offline tests, and a documented 50-review evaluation with aggregate charts and clear limits.
 
-More public projects and technical case studies are being added as I continue organizing my portfolio.
+### [FoodHub Delivery Operations Analysis](https://github.com/raghid-shreih/foodhub-delivery-analysis)
+A reproducible Python analysis of 1,898 food delivery orders. It uses pandas and Matplotlib to explore cuisine demand, delivery times, rating coverage, and a 60-minute service threshold, with checked calculations and business interpretation.
 
 ## Current Areas of Interest
 
