@@ -26,6 +26,9 @@ A Python project for analyzing apparel reviews and evaluating an LLM's recommend
 ### [FoodHub Delivery Operations Analysis](https://github.com/raghid-shreih/foodhub-delivery-analysis)
 A reproducible Python analysis of 1,898 food delivery orders. It uses pandas and Matplotlib to explore cuisine demand, delivery times, rating coverage, and a 60-minute service threshold, with checked calculations and business interpretation.
 
+### [SVHN Digit Recognition](https://github.com/raghid-shreih/svhn-digit-recognition)
+A computer vision project comparing dense neural networks (ANNs) and CNNs for street-view digit recognition. It includes runnable TensorFlow code, offline tests, and visualized historical results from an MIT Applied AI experiment; the reported 89.79% CNN accuracy comes from the original course notebook, not a new training run in this repo.
+
 ## Current Areas of Interest
 
 - Applied AI and machine learning
