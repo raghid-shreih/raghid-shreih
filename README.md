@@ -29,6 +29,9 @@ A reproducible Python analysis of 1,898 food delivery orders. It uses pandas and
 ### [SVHN Digit Recognition](https://github.com/raghid-shreih/svhn-digit-recognition)
 A computer vision project comparing dense neural networks (ANNs) and CNNs for street-view digit recognition. It includes runnable TensorFlow code, offline tests, and visualized historical results from an MIT Applied AI experiment; the reported 89.79% CNN accuracy comes from the original course notebook, not a new training run in this repo.
 
+### [Patent Claim Construction AI](https://github.com/raghid-shreih/patent-claim-construction-ai)
+A standalone AI-assisted patent reading tool that proposes claim-term meanings and links them to exact passages and original page images for review. Built with React, TypeScript, Express, PostgreSQL, and the OpenAI SDK, it handles PDF and pasted-text inputs, dependent claims, and source checks; it is a research preview rather than a legal opinion.
+
 ## Current Areas of Interest
 
 - Applied AI and machine learning
